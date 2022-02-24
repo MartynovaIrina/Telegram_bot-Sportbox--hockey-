@@ -1,0 +1,6 @@
+.env
+miscellaneous_files
+__pycache__
+venv
+logging.log
+BD.db
